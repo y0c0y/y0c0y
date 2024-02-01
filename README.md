@@ -10,5 +10,5 @@
   <img src="https://raw.githubusercontent.com/y0c0y/github-stats-transparent/output/generated/languages.svg" width="49.7%" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=y0c0y&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
