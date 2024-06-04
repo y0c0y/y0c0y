@@ -3,6 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y0c0y)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjsn1234)](https://solved.ac/kkjsn1234/)
 
+[![코드트리|실력진단-kkjsn1234](https://banner.codetree.ai/v1/banner/kkjsn1234)](https://www.codetree.ai/profiles/kkjsn1234)
+
 <a href="s">
   <img src="https://raw.githubusercontent.com/y0c0y/github-stats-transparent/output/generated/overview.svg" width="49.7%" />
 </a>
